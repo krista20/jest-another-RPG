@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krista20/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krista20/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/krista20/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
